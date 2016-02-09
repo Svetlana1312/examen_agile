@@ -1,0 +1,11 @@
+Historia de usuario: Resta de dos numero naturales
+
+
+Tarea 1: Codificar las pruebas 
+Tarea 2: Codificar la funcionalidad
+Tarea 3: Aplicar las pruebas y corregir los errores.
+
+
+Tareas 1 y 2 se pueden hacer en paralelo y por diferentes 
+personas. Tarea 3 depende de que esten hechas las anteriores
+dos, por lo tanto no puede empezar hasta que se terminen.
