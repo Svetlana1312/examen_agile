@@ -1,0 +1,13 @@
+Historia de usuario: H_Multiplicacion
+
+
+Tarea 1: Crear las pruebas necesarias
+Tarea 2: Codificar la multiplicacion
+Tarea 3: Aplicar las pruebas y corregir los errores
+
+Nota:
+
+Tarea 1 y 2 se pueden hacer en paralelo por diferentes 
+personas, porque interesa que las pruebas tengan maxima 
+calidad. La tarea 3 se va a empezar una vez acabadas las 
+anteriores dos tareas.
