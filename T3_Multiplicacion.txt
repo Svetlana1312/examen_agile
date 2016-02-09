@@ -1,1 +1,2 @@
 Aplicamos las pruebas al codigo de multiplicacion.
+Corregimos los errores en el código.
