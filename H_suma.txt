@@ -1,0 +1,12 @@
+Historia de usuario 1: 
+
+Suma de dos numeros naturales:
+
+Tarea 1: Hacer las pruebas
+Tarea 2: Codificar
+Tarea 3: Aplicar las pruebas, verificar que funciona y 
+     cometer cambios en el código si es necesario
+
+
+Tarea 3 se puede hacer solo despues de que se hayan terminado 
+tarea 1 y 2.
