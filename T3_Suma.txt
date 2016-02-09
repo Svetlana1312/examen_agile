@@ -1,1 +1,3 @@
 Aplicamos las pruebas sobre el codigo hecho.
+
+Corregimos errores. Ahora si se cumplen las pruebas.
